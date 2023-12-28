@@ -1,3 +1,23 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+vendor/
+target/
+build/
+out/
+*.log
+*.tmp
+.env
+.bash_history
+.bashrc
+*.sqlite
+db/
+*.class
+*.jar
+.gitignore
+
