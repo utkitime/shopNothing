@@ -1,4 +1,4 @@
-package com.sayga;
+package com.shopNothing;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,8 +14,8 @@ public class Controller {
     }
 
     @GetMapping("/json")
-    public MyData getData() {
-        return new MyData("Hello", "World");
+    public Goods getData() {
+        return new Goods("Hello", "World");
     }
     
 }

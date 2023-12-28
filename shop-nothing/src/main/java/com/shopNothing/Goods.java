@@ -1,12 +1,12 @@
-package com.sayga;
+package com.shopNothing;
 
-public class MyData {
+public class Goods {
 
     private String greeting;
     private String target;
 
     // Constructor
-    public MyData(String greeting, String target) {
+    public Goods(String greeting, String target) {
         this.greeting = greeting;
         this.target = target;
     }

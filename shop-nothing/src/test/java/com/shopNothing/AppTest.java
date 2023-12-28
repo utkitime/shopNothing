@@ -1,4 +1,4 @@
-package com.sayga;
+package com.shopNothing;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
